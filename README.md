@@ -1,7 +1,7 @@
 # KPP PELATIHAN ROBOTIK ITS - Capture the Flag: Robotic Pathfinding Project
 
 ## Overview
-This project features an autonomous robotic programming and pathfinding system designed to play a "Capture the Flag" style game. The robot navigates through different grid-based maps to locate and capture the flag while dynamically avoiding obstacles and restricted zones. 
+This project features an autonomous robotic programming and pathfinding system designed to play a "Capture the Flag" style game. The robot navigates through different grid-based maps to locate and capture the flag while dynamically avoiding obstacles and restricted zones 
 
 ## Map & Grid System
 The environment is divided into a grid system. The robot is programmed to navigate three distinct maps, each with varying layouts and difficulties. 
